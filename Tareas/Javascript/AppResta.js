@@ -5,6 +5,9 @@ function restanumeros() {
 
     document.write(num1 - num2);
 
-    // console.log(num1 - num2);
+    console.log(num1 - num2);
+
+    resta = num1 - num2;
+    alert("la resta de los dos numeros es" + resta)
 
 }
