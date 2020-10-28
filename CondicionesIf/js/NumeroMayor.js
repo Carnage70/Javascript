@@ -20,7 +20,5 @@ function CalcularNumero(){
     }
     if(Num3 > Num1 && Num3 > Num2){
         ImprimirResultado.innerText = Num3 + " Es el numero mayor "
-    }else{
-        ImprimirResultado.innerText = "Ningun numero ingresado"
     }
 }
